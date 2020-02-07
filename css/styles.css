@@ -1,0 +1,21 @@
+
+     body{
+           background-color:#EAF6F6;
+     }
+
+     hr{
+          border-style: dashed none none;
+          height: 0px;
+          border-color: red;
+          border-width: 1.5px;
+     }
+
+     h1
+     {
+       color: #192965;
+     }
+
+     h3
+     {
+       color: #192965;
+     }
